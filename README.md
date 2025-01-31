@@ -31,7 +31,7 @@ I'm a Python web developer with experience in building full-stack web applicatio
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mmmylnikov&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/mmmylnikov)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmylnikov&layout=donut&theme=transparent)](https://github.com/YourGitHubUsername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmylnikov&layout=donut&theme=transparent)](https://github.com/mmmylnikov)
 
 ## 📫 How to Reach Me
 
